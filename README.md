@@ -44,9 +44,7 @@ I’m constantly working on technical, open-source projects—everything I do is
 
 ---
 
-## :chart_with_upwards_trend: GitHub Stats
-
-![jonahmer22's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonahmer22&show_icons=true&theme=radical)
+## :chart_with_upwards_trend: Some GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonahmer22&layout=compact&theme=radical)
 
@@ -54,7 +52,7 @@ I’m constantly working on technical, open-source projects—everything I do is
 
 ## :handshake: Let’s Connect
 
-- **Portfolio**: [Jonah Merriam](jonahmerriam.net)
+- **Portfolio**: [Jonah Merriam](https://www.jonahmerriam.net/)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/jonahmerriam/) 
 - **Email**: [jonah@jonahmerriam.net](mailto:jonah@jonahmerriam.net)
 

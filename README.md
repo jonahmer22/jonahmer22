@@ -1,8 +1,6 @@
 # Hi there, I'm **jonahmer22**! :wave:
 
-<!-- 
-    banner needs to go here
--->
+![](./name_banner.png)
 
 I’m a student at the **University of Connecticut**, passionate about:
 - **Systems programming & CPU simulations** (I love the nitty-gritty of C!)

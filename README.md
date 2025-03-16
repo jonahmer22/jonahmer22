@@ -1,6 +1,6 @@
 # Hi there, I'm **jonahmer22**! :wave:
 
-![](./name_banner.png)
+![Name Banner](./name_banner.png)
 
 I’m a student at the **University of Connecticut**, passionate about:
 - **Systems programming & CPU simulations** (I love the nitty-gritty of C!)
@@ -8,7 +8,8 @@ I’m a student at the **University of Connecticut**, passionate about:
 - **Linux** tinkering and exploring its limitless possibilities
 - **Art & Hiking** when I step away from the keyboard
 
-I’m constantly working on technical, open-source projects—everything I do is licensed under **GPL v3**. Check them out below!
+I’m constantly working on technical, open-source projects.
+Everything I do is licensed under **GPL v3**. Check them out below!
 
 ---
 

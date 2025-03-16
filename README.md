@@ -52,7 +52,7 @@ I’m constantly working on technical, open-source projects—everything I do is
 
 ## :handshake: Let’s Connect
 
-- **Portfolio**: [Jonah Merriam](https://www.jonahmerriam.net/)
+- **Website**: [www.jonahmerriam.net](https://www.jonahmerriam.net/)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/jonahmerriam/) 
 - **Email**: [jonah@jonahmerriam.net](mailto:jonah@jonahmerriam.net)
 
